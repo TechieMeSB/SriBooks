@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sribook.fragment.AboutAppFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/txtAboutApp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ABOUT SRIBOOK"
+        android:textAlignment="center"
+        android:textSize="45sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:padding="10dp"/>
+    <TextView
+        android:id="@+id/txtAbout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtAboutApp"
+        android:text="Online Bookstore Application which allows users to browse through Variety of Books available and select a book of their choice. Users can add Books to Favourites and also remove Books from Favourite as per users wish. "
+        android:textSize="21dp"
+        android:padding="12dp"/>
+    <TextView
+        android:id="@+id/txtAbout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:text="Using SriBooks one can Save Time and Cost. It also helps customers to view Books of all categories with Faster Purchasing of Books. "
+        android:layout_below="@+id/txtAbout"
+        android:textSize="21dp"/>
+</RelativeLayout>
