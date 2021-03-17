@@ -22,19 +22,20 @@ Open Android Studio and Navigate to location of SriBooks in Remote Environment t
 # Screenshot of Application :iphone:
 <div >
   <img src="ScreenShots/op1.jpg" width="250" align="left">
-  <img src="ScreenShots/op2.jpg" width="250" align="right">
+  <img src="ScreenShots/op2.jpg" width="250" >
   <img src="ScreenShots/op3.jpg" width="250">
 </div>
 <br>
 <div >
   <img src="ScreenShots/op4.jpg" width="250" align="left">
-  <img src="ScreenShots/op5.jpg" width="250" align="right">
+  <img src="ScreenShots/op5.jpg" width="250" >
 </div>
 <br>
 <div >
   <img src="ScreenShots/op6.jpg" width="250" align="left">
-  <img src="ScreenShots/op7.jpg" width="250" align="right">
+  <img src="ScreenShots/op7.jpg" width="250">
 </div>
+<br>
 
 ---
 # Tools and Language Used :wrench:
